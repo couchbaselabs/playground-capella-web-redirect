@@ -1,3 +1,3 @@
 # playground-capella-web-redirect
 
-To re-deploy, simply refresh the instances in CouchbaseLiveProd.
+Deployed as couchbase.live bucket on s3.
